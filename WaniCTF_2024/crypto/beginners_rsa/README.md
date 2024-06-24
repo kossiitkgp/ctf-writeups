@@ -60,9 +60,7 @@ enc = pow(m, e, n) # this is our encrypted ciphertext
 What is that `pow()` function doing
 
 What that does is return
-$$
-enc = (m^e)\\mod n
-$$
+$$enc = (m^e)\\mod n$$
 
 Now we come to the decryption
 
@@ -82,9 +80,7 @@ d = inverse(e, w)
 ```
 
 What `inverse()` does is return the modular multiplicative inverse i.e.
-$$
-d = e^{-1}\\mod w
-$$
+$$d = e^{-1}\\mod w$$
 and the decrypted key is given by
 
 ```
@@ -92,9 +88,7 @@ dec = pow(enc, d, n)
 ```
 
 or
-$$
-dec = (enc^d)\\mod n
-$$
+$$dec=(enc^d)\\mod n$$
 
 Now coming to actual challenge
 
