@@ -186,7 +186,7 @@ pygame.display.set_caption("Tetris")
 
 done = False
 clock = pygame.time.Clock()
-fps = 1
+fps = 15
 game = Tetris(40, 34)
 counter = 0
 

@@ -92,8 +92,8 @@ def replay_keypresses(keypresses, delay=20):
     signal.signal(signal.SIGINT, lambda signum, frame: os._exit(0))
 
     print('Please open the program you want the keystrokes to be replayed in (e.g. notepad, terminal, browser, email...)')
-    print('Press <RETURN> in that window to start and \'q\' at any point to stop')
-    keyboard.wait('return', suppress=True)
+    print('Press <H> in that window to start and \'q\' at any point to stop')
+    keyboard.wait('h', suppress=True)
     time.sleep(0.1)
 
     for modifiers, keypress in keypresses:
