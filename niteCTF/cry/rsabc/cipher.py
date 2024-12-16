@@ -80,12 +80,12 @@ for ch in flag:
             eng=chr(65+ciphertext%26)
             lan=language.get(eng)
             file1.write(lan)
-            ciphertext=googly(ciphertext,ciph.bit_length()-ord(eng))
+            ciphertext=googly(ciphertext,ciphertext.bit_length()-ord(eng))
         else:
             eng=chr(97+ciphertext%26)
             lan=language.get(eng)
             file1.write(lan)
-            ciphetext=googly(ciphertext,ciph.bit_length()-ord(eng))
+            ciphertext=googly(ciphertext,ciphertext.bit_length()-ord(eng))
     ct.append(ciphertext)
     nlist.append(n)
 

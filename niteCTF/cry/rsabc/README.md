@@ -49,3 +49,8 @@ If anyone reads this please tell me a better way to have done this. I tried gene
 ```
 flag: nite{quICklY_grab_the_codE5_sgOqkA}
 ```
+
+---
+
+The reason I didn't think I would be able to write a script was because 
+I didn't know we could find prime factors in python. Updated with new script
