@@ -1,0 +1,27 @@
+{
+    "nextId": 3,
+    "logins": [
+        {
+            "id": 2,
+            "hostname": "https://play.picoctf.org",
+            "httpRealm": null,
+            "formSubmitURL": "https://play.picoctf.org",
+            "usernameField": "username",
+            "passwordField": "password",
+            "encryptedUsername": "MDoEEPgAAAAAAAAAAAAAAAAAAAEwFAYIKoZIhvcNAwcECIUGpc5m0WerBBBN4+6W75BE0smIJiTHBTMa",
+            "encryptedPassword": "MEoEEPgAAAAAAAAAAAAAAAAAAAEwFAYIKoZIhvcNAwcECC0mb3LIAp/bBCDvp87EMmnVaSZhMhKvRXy8K/qTQOIbAMEqqZ6UwXKgFg==",
+            "guid": "{45189e8f-0e4d-4523-9eb1-cc898dc5a116}",
+            "encType": 1,
+            "timeCreated": 1734534835305,
+            "timeLastUsed": 1734534835305,
+            "timePasswordChanged": 1734534835305,
+            "timesUsed": 1,
+            "syncCounter": 1,
+            "everSynced": false,
+            "encryptedUnknownFields": "MDIEEPgAAAAAAAAAAAAAAAAAAAEwFAYIKoZIhvcNAwcECJyXxxiRW1wWBAhTOdD1wSL4tA=="
+        }
+    ],
+    "potentiallyVulnerablePasswords": [],
+    "dismissedBreachAlertsByLoginGUID": {},
+    "version": 3
+}
