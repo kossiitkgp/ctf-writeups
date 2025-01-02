@@ -9,6 +9,7 @@ IITR's flagship CTF event
 | Welcome | Misc | 10 | discord lol
 | [I Like McDonalds](./cry/mcd/) | Cry | 100 | hash-collision/pwntools
 | [Cursed Credential](./for/cursed_credentials/) | For | 100 | firefox-login/bruteforce
+| [Torrent Tempest](./for/torrent/) | For | ??? | pyshark/deepsound
 
 ## Comments/Learning
 
