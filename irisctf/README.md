@@ -27,3 +27,14 @@ Wish I gave more time
 
 ## Writeups/Resources Dump
 
+**For**
+- [yun](https://yun.ng/c/ctf/2025-iris-ctf/)
+
+**Web**
+- [yun](https://yun.ng/c/ctf/2025-iris-ctf/)
+- [ireland.re](https://ireland.re/posts/irisctf_2025/)
+
+```
+https://github.com/negasora/Some-CTF-Solutions/tree/master/irisctf-2025
+```
+
