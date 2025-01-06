@@ -28,6 +28,7 @@
 | [World Wide CTF 2024](https://ctftime.org/event/2572) | 30/11/2024 | 77/1215 | [link](./WorldWideCTF/) | [worldwideflags](https://github.com/WorldWideFlags/World-Wide-CTF-2024)
 | [niteCTF 2024](https://ctftime.org/event/2461) | 13/12/2024 | 132/1464 | [link](./niteCTF/) | [cryptonite](https://github.com/Cryptonite-MIT/niteCTF-2024)
 | [Backdoor 2024](https://ctftime.org/event/2540) | 22/12/2024 | 96/476 | [link](./backdoor/) | 
+| [IristCTF 2025](https://ctftime.org/event/2503) | 4/01/2025 | 203/1528 | [link](./irisctf/) | 
 
 </div>
 
