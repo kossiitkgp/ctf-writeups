@@ -31,11 +31,11 @@ Wish I gave more time
 **For**
 - [yun](https://yun.ng/c/ctf/2025-iris-ctf/)
 - [warlocksmurf](https://warlocksmurf.github.io/posts/irisctf2025/)
-- [g4ruda(InfosecIITR)](https://g4rud4kun.github.io/2025/01/07/IrisCTF-2025/)
+- [g4rud4(InfosecIITR)](https://g4rud4kun.github.io/2025/01/07/IrisCTF-2025/)
 - [bancsorin10](https://github.com/bancsorin10/ctf_writeups/blob/main/iris_2025.md)
 
 **OSINT**
-- [g4ruda(InfosecIITR)](https://g4rud4kun.github.io/2025/01/07/IrisCTF-2025/)
+- [g4rud4(InfosecIITR)](https://g4rud4kun.github.io/2025/01/07/IrisCTF-2025/)
 - [bancsorin10](https://github.com/bancsorin10/ctf_writeups/blob/main/iris_2025.md)
 
 **Web**
@@ -43,6 +43,7 @@ Wish I gave more time
 - [ireland.re](https://ireland.re/posts/irisctf_2025/)
 - [Seraphin](https://github.com/Seraphin-/ctf/blob/master/2025/irisctf/README.md)
 - [bancsorin10](https://github.com/bancsorin10/ctf_writeups/blob/main/iris_2025.md)
+- [ribom](https://ribombalt.github.io/ctf-writeup/2025/01/05/irisctf2025)
 
 **Crypto**
 - [thr34dr1pp3r](https://thr34dr1pp3r.gitbook.io/ctf/irisctf-2025/)
@@ -51,13 +52,21 @@ Wish I gave more time
 
 **Rev**
 - [Seraphin](https://github.com/Seraphin-/ctf/blob/master/2025/irisctf/README.md)
+- [ribom](https://ribombalt.github.io/ctf-writeup/2025/01/05/irisctf2025)
 
 **Misc**
 - [Seraphin](https://github.com/Seraphin-/ctf/blob/master/2025/irisctf/README.md)
+- [ribom](https://ribombalt.github.io/ctf-writeup/2025/01/05/irisctf2025)
 
 **Network**
 - [bancsorin10](https://github.com/bancsorin10/ctf_writeups/blob/main/iris_2025.md)
 - [yun](https://yun.ng/c/ctf/2025-iris-ctf/)
+- [ribom](https://ribombalt.github.io/ctf-writeup/2025/01/05/irisctf2025)
+
+**Binex**
+- [imLZH1](https://imlzh1.github.io/posts/IrisCTF2025-Pwn-Binary-Exploitation-WriteUps/)
+- [kallenos](https://kallenosf.com/writeups/irisCTF/)
+- [ribom](https://ribombalt.github.io/ctf-writeup/2025/01/05/irisctf2025)
 
 ```
 https://github.com/negasora/Some-CTF-Solutions/tree/master/irisctf-2025
