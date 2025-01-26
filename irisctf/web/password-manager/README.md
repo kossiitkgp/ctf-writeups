@@ -47,7 +47,7 @@ Now at this point I had a brain fart. I was thinking if I pass `%2e%2e%2f`
 because the URL encoding/decoding is happening by the browser itself, nothing to do with the server. And 
 even if it was, after decoding its still going to be removed by the server.
 
-I didn't have this clarity then, so I just kept sinking further. I found a tool called `[dotdotpwn](https://github.com/wireghoul/dotdotpwn)` 
+I didn't have this clarity then, so I just kept sinking further. I found a tool called [dotdotpwn](https://github.com/wireghoul/dotdotpwn) 
 that was supposed to be for finding path traversal vulnerabilities. But, as always, setup issues. 
 
 Finally a while later [@harshkhandeparker](https://github.com/harshkhandeparkar) came online and solved it
