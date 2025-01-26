@@ -15,6 +15,7 @@ IrisCTF 2025 starts at 2025-01-04 (Jan 4, 2025) @ 00:00 UTC and ends at 2025-01-
 | [Not Eelaborate] | Osint | 50 | 
 | [Late Night Bite] | Osint | 50 | 
 | [Password Manager](./web/password-manager/) | Web | 50 | Path traversal
+| [Kittycrypt](./cry/kittycrypt/) | Cry | 50 | keys same for given length
 
 ## Comments/Learnings
 
@@ -29,10 +30,34 @@ Wish I gave more time
 
 **For**
 - [yun](https://yun.ng/c/ctf/2025-iris-ctf/)
+- [warlocksmurf](https://warlocksmurf.github.io/posts/irisctf2025/)
+- [g4ruda(InfosecIITR)](https://g4rud4kun.github.io/2025/01/07/IrisCTF-2025/)
+- [bancsorin10](https://github.com/bancsorin10/ctf_writeups/blob/main/iris_2025.md)
+
+**OSINT**
+- [g4ruda(InfosecIITR)](https://g4rud4kun.github.io/2025/01/07/IrisCTF-2025/)
+- [bancsorin10](https://github.com/bancsorin10/ctf_writeups/blob/main/iris_2025.md)
 
 **Web**
 - [yun](https://yun.ng/c/ctf/2025-iris-ctf/)
 - [ireland.re](https://ireland.re/posts/irisctf_2025/)
+- [Seraphin](https://github.com/Seraphin-/ctf/blob/master/2025/irisctf/README.md)
+- [bancsorin10](https://github.com/bancsorin10/ctf_writeups/blob/main/iris_2025.md)
+
+**Crypto**
+- [thr34dr1pp3r](https://thr34dr1pp3r.gitbook.io/ctf/irisctf-2025/)
+- [Seraphin](https://github.com/Seraphin-/ctf/blob/master/2025/irisctf/README.md)
+- [bancsorin10](https://github.com/bancsorin10/ctf_writeups/blob/main/iris_2025.md)
+
+**Rev**
+- [Seraphin](https://github.com/Seraphin-/ctf/blob/master/2025/irisctf/README.md)
+
+**Misc**
+- [Seraphin](https://github.com/Seraphin-/ctf/blob/master/2025/irisctf/README.md)
+
+**Network**
+- [bancsorin10](https://github.com/bancsorin10/ctf_writeups/blob/main/iris_2025.md)
+- [yun](https://yun.ng/c/ctf/2025-iris-ctf/)
 
 ```
 https://github.com/negasora/Some-CTF-Solutions/tree/master/irisctf-2025
