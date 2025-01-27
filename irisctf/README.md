@@ -10,7 +10,7 @@ IrisCTF 2025 starts at 2025-01-04 (Jan 4, 2025) @ 00:00 UTC and ends at 2025-01-
 | [No Shark?](./net/noshark/) | Net | 50 | extract jpg from tcp
 | [deldeldel](./for/deldeldel/) | For | 50 | pcap usb hid
 | [Checking Out of Winter] | Osint | 50 | 
-| [dotdotdot] | Radio | 50 | 
+| [dotdotdot](./rf/dotdotdot/) | Radio | 50 | spectrum contained morse
 | [Sleuths and Sweets] | Osint | 50 | 
 | [Not Eelaborate] | Osint | 50 | 
 | [Late Night Bite] | Osint | 50 | 
@@ -26,6 +26,11 @@ There were like 200 points of freebies, and we ended up missing 50 of those poin
 Wish I gave more time 
 
 - Tegan
+
+The most interesting CTF I have participated in so far, but I also haven't participated in many, so there's that.
+Should've spent more time with BinExp and Cryptography.
+ 
+- Dhanvith
 
 ## Writeups/Resources Dump
 
