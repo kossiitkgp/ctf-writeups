@@ -1,6 +1,7 @@
 # Chal Name
 
 Points: 
+Solves: 
 
 > Description
 
