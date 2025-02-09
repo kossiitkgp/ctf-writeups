@@ -17,6 +17,7 @@ IrisCTF 2025 starts at 2025-01-04 (Jan 4, 2025) @ 00:00 UTC and ends at 2025-01-
 | [Password Manager](./web/password-manager/) | Web | 50 | Path traversal
 | [Kittycrypt](./cry/kittycrypt/) | Cry | 50 | keys same for given length
 | [Sqlate](./pwn/sqlate/) | Binex | 50 | buffer overflow 
+| [dotdotdot](./rf/dotdotdot/) | Radio | 50 | 
 
 ## Comments/Learnings
 

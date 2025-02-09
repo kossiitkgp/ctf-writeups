@@ -4,9 +4,9 @@ copy this to the CTF folder
 
 ## Solved Challenges
 
-| Name | Category | Points | Comments
-| --- | --- | --- | ---
-|     |     |     |
+| Name | Category | Points | Comments | Solved By
+| --- | --- | --- | --- | ---
+|     |     |     |     | 
 
 ## Comments/Learnings
 
