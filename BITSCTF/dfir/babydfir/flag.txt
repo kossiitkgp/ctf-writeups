@@ -1,0 +1,1 @@
+BITSCTF{a_really_simple_intro_to_DFIR_12848a9e}

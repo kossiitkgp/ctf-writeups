@@ -12,9 +12,16 @@
   <h3 align="center">CTF Writeups</h3>
 
   <p align="center">
-    Writeups for the events we actively participate in
+    Writeups for the CTFs we actively participate in
     <br />
-    <a href="https://github.com/kossiitkgp/ctf-writeups/issues/new">Want to join the team? (IITKGP Students only)</a>
+    Raise an Issue if you want to join our team (IITKGP students only)
+    <br/>
+    <!-- <a href="https://github.com/kossiitkgp/ctf-writeups/issues/new">Want to join the team? (IITKGP Students only)</a> -->
+    <a href="https://kossiitkgp.org">kossiitkgp</a>
+    |
+    <a href="https://ctftime.org/teams/304605">41 in India (2025)</a>
+    |
+    <a href="https://ctftime.org/teams/304605">547 in the World (2025)</a>
   </p>
 </div>
 
