@@ -113,7 +113,7 @@ def generate_readme_description(ctf_data):
 
 
 def generate_challenges_table(challenge_list):
-    challenge_table = "<div align='center'>\n\nName | Category | Points | Solves | Solved By Us | Comments\n-----|----------|--------|--------|--------------|------------|\n"
+    challenge_table = "## Challenges \n\n<div align='center'>\n\nName | Category | Points | Solves | Solved By Us | Comments\n-----|----------|--------|--------|--------------|------------|\n"
     if(challenge_list != None):
         for challenge in challenge_list:
             challenge_table += f"{writeup_link_formatting(challenge)} | {challenge["category"]} | {challenge["value"]} | {challenge["solves"]} | {challenge["solved_by_me"]} | \n"
