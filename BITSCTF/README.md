@@ -34,8 +34,8 @@ Name | Category | Points | Solves | Solved By Us | Comments
 Baby PWN | PWN | 141 | 135 | False | 
 [ViruS Camp 2] | DFIR | 198 | 124 | True | 
 [Baby Web] | Web | 304 | 100 | True | 
-[%ulation] | Hardware | 366 | 83 | True | 
-[Old Skool] | Hardware | 431 | 60 | True | 
+[%ulation](./hardware/%ulation/) | Hardware | 366 | 83 | True | FSK signal
+[Old Skool](./hardware/old_skool/) | Hardware | 431 | 60 | True | Amplitude Modulation
 [The Sonnets Secret ] | OSINT | 431 | 60 | True | 
 [Praise Our RNG Gods] | Reverse Engineering | 436 | 58 | True | 
 Minesweeper 2 | Crypto | 480 | 33 | False | 
