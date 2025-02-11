@@ -23,7 +23,7 @@
 Name | Category | Points | Solves | Solved By Us | Comments
 -----|----------|--------|--------|--------------|------------|
 [Biscuits](./pwn/bisuits/) | PWN | 50 | 192 | True | `srand(time(0))`
-[Baby DFIR] | DFIR | 50 | 258 | True | 
+[Baby DFIR](./dfir/babydfir/) | DFIR | 50 | 258 | True | ad1
 [Sanity Check] | Welcome | 50 | 765 | True | 
 [HotPause] | OSINT | 50 | 184 | True | 
 [Baby Crypto](./cry/baby_crypto/) | Crypto | 50 | 238 | True | RSA Oracle
