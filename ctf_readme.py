@@ -1,8 +1,6 @@
 import json
-from os import name
 import sys
 import requests
-import pycurl
 
 # COLORS
 ERROR = "\033[91m"
@@ -10,17 +8,15 @@ PROGRESS = "\033[93m"
 SUCCESS = "\033[92m"
 NORMAL = "\033[37m"
 
-if len(sys.argv) < 3:
-    print(ERROR,"\bUSAGE: python ctf_readme.py [CTF NAME] [EVENT ID]")
+if len(sys.argv) < 2:
+    print(ERROR,"\bUSAGE: python ctf_readme.py [CTF EVENT ID]")
     exit(1)
 
-CTF_NAME = sys.argv[1]
 # CTF_URL = sys.argv[2]
-EVENT_ID = sys.argv[2]
-# TEAM_ID = sys.argv[4]
+EVENT_ID = sys.argv[1]
 
 # access challenges.json from ctf.ctfname.tld/api/v1/challenges
-# I was unable to handle ctfd auth
+# I was unable to handle ctfd auth :(
 # def get_challenges(url):
 #     try:
 #         req_url = f"{url}api/v1/challenges"
@@ -117,10 +113,10 @@ def generate_readme_description(ctf_data):
 
 
 def generate_challenges_table(challenge_list):
-    challenge_table = "<div align='center'>\n\nName | Category | Points | Solves | Solved By Us |\n-----|----------|--------|--------|--------------|\n"
+    challenge_table = "<div align='center'>\n\nName | Category | Points | Solves | Solved By Us | Comments\n-----|----------|--------|--------|--------------|------------|\n"
     if(challenge_list != None):
         for challenge in challenge_list:
-            challenge_table += f"{writeup_link_formatting(challenge)} | {challenge["category"]} | {challenge["value"]} | {challenge["solves"]} | {challenge["solved_by_me"]}\n"
+            challenge_table += f"{writeup_link_formatting(challenge)} | {challenge["category"]} | {challenge["value"]} | {challenge["solves"]} | {challenge["solved_by_me"]} | \n"
         challenge_table += "\n\n</div>"
         print(SUCCESS, "[+] generated challenges table in markdown")
         return challenge_table
@@ -134,10 +130,13 @@ def writeup_link_formatting(challenge):
     else:
         return f"{challenge["name"]}"
 
-README_HEADER = f"# {sys.argv[1]}"
+CTF_DATA = get_ctf_data(EVENT_ID)
 CHALLENGE_LIST = get_challenges("challenges.json")
 CHALLENGE_TABLE = generate_challenges_table(CHALLENGE_LIST)
-CTF_DATA = get_ctf_data(EVENT_ID)
+if CTF_DATA != None:
+    README_HEADER = f"# {CTF_DATA['title']}"
+else: 
+    README_HEADER = f"# CTF_NAME"
 README_DESCRIPTION = generate_readme_description(CTF_DATA)
 README_FOOTER = f"""
 ## Comments/Learnings
