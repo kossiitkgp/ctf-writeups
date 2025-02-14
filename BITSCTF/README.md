@@ -29,10 +29,10 @@ Name | Category | Points | Solves | Solved By Us | Comments
 [Baby Crypto](./cry/baby_crypto/) | Crypto | 50 | 238 | True | RSA Oracle
 [Loginator] | Reverse Engineering | 50 | 153 | True | 
 [Baby Rev] | Reverse Engineering | 50 | 233 | True | 
-[ViruS Camp 1] | DFIR | 97 | 143 | True | 
+[ViruS Camp 1](./dfir/viruscamp/) | DFIR | 97 | 143 | True | VSCode
 [Finders Keepers](./for/finders_keepers/) | Forensics | 108 | 141 | True | aperisolve ftw 
 Baby PWN | PWN | 141 | 135 | False | 
-[ViruS Camp 2] | DFIR | 198 | 124 | True | 
+[ViruS Camp 2](./dfir/viruscamp/) | DFIR | 198 | 124 | True | 
 [Baby Web] | Web | 304 | 100 | True | 
 [%ulation](./hardware/%ulation/) | Hardware | 366 | 83 | True | FSK signal
 [Old Skool](./hardware/old_skool/) | Hardware | 431 | 60 | True | Amplitude Modulation
