@@ -25,7 +25,7 @@ Next add an AM Demod block with the `audio_stop` parameter at around 10 kHz and 
 
 ![final_flow](./final_flow.jpg)
 
-Pitch this audio down and slow it down, and you get the flag directly IN YO FACE
+Pitch this audio down and slow it down, and you get the flag
 
 [Final audio](./old_skool_pitched_down.mp3)
 
