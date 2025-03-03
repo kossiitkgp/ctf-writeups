@@ -28,7 +28,7 @@ Name | Category | Points | Solves | Solved By Us | Comments
 [HotPause] | OSINT | 50 | 184 | True | 
 [Baby Crypto](./cry/baby_crypto/) | Crypto | 50 | 238 | True | RSA Oracle
 [Loginator] | Reverse Engineering | 50 | 153 | True | 
-[Baby Rev] | Reverse Engineering | 50 | 233 | True | 
+[Baby Rev](./rev/babyrev/) | Reverse Engineering | 50 | 233 | True | python obfuscation
 [ViruS Camp 1](./dfir/viruscamp/) | DFIR | 97 | 143 | True | VSCode
 [Finders Keepers](./for/finders_keepers/) | Forensics | 108 | 141 | True | aperisolve ftw 
 Baby PWN | PWN | 141 | 135 | False | 

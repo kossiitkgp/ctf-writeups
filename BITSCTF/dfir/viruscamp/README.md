@@ -8,9 +8,7 @@ Points:
 
 ---
 
-The light theme stuff in the description made me thing of the `.config` files so I mounted the image
-and looked for hidden directories. I saw `.vscode` and went in. I knew I found something because
-the name of the extension was `undefined_publisher.activate-0.0.1/`
+The light theme stuff in the description made me thing of the `.config` files so I mounted the image and looked for hidden directories. I saw `.vscode` and went in. I knew I found something because the name of the extension was `undefined_publisher.activate-0.0.1/`
 
 exploring it a little more showed me a file with a base64 comment at the bottom which had the flag.
 
@@ -19,10 +17,7 @@ exploring it a little more showed me a file with a base64 comment at the bottom 
 The 1st flag is: BITSCTF{H0w_c4n_vS_c0d3_l3t_y0u_publ1sh_m4l1cious_ex73nsi0ns_SO_easily??_5a7b336c}⏎
 ```
 
-After this I went into a little bit of a rabbit hole of the structure of a VSCode extension. 
-I should instead have just read that file in a little more detail though. So basically the extension offers just one command
-"Run Shell", that is running some malicious powershell code when called which encrypts a `flag.png` in your `~/Desktop` with AES. The malicious powershell was very weakly obfuscated by just
-`base64` -> `reverse the string` so that was easy. Finally we just had to decrypt the `flag.enc` to get the image which contained the flag.
+After this I went into a little bit of a rabbit hole of the structure of a VSCode extension. I should instead have just read that file in a little more detail though. So basically the extension offers just one command "Run Shell", that is running some malicious powershell code when called which encrypts a `flag.png` in your `~/Desktop` with AES. The malicious powershell was very weakly obfuscated by just `base64` -> `reverse the string` so that was easy. Finally we just had to decrypt the `flag.enc` to get the image which contained the flag.
 
 ```powershell
 $password = "MyS3cr3tP4ssw0rd"
