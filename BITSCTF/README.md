@@ -37,7 +37,7 @@ Baby PWN | PWN | 141 | 135 | False |
 [%ulation](./hardware/%ulation/) | Hardware | 366 | 83 | True | FSK signal
 [Old Skool](./hardware/old_skool/) | Hardware | 431 | 60 | True | Amplitude Modulation
 [The Sonnets Secret ] | OSINT | 431 | 60 | True | 
-[Praise Our RNG Gods] | Reverse Engineering | 436 | 58 | True | 
+[Praise Our RNG Gods](./rev/rnggods/) | Reverse Engineering | 436 | 58 | True | Python bytecodes
 Minesweeper 2 | Crypto | 480 | 33 | False | 
 The Ghosting Protocol | Misc | 486 | 28 | False | 
 Seed Fund 💰 | Misc | 494 | 19 | False | 
